@@ -11,8 +11,8 @@ const projects = [
     highlight: "Bike rental",
     desc: "A responsive bike rental app with booking and authentication.",
     img: BikeRetal,
-    ProjectLink: "https://bike-rental-lac-omega.vercel.app/",
-    GithubLink:"https://github.com/amansahu-developer/Bike-Rental-"
+    ProjectLink: "https://bike-rental-taupe.vercel.app/",
+    GithubLink:"https://github.com/amansahux/Bike-Rental-"
   },
   {
     tech: ["#React", "#Tailwind", "#GSAP", "#Vercel"],
@@ -20,8 +20,8 @@ const projects = [
     highlight: "Gravity Team",
     desc: "A smooth animated landing page inspired by Gravity Team design.",
     img: GravityTeam,
-    ProjectLink: "https://gravity-team-psi.vercel.app/",
-    GithubLink:"https://github.com/amansahu-developer/Gravity-Team"
+    ProjectLink: "https://gravity-team-iota.vercel.app/",
+    GithubLink:"https://github.com/amansahux/Gravity-Team"
   },
   {
     tech: ["#React", "#Tailwind", "#Framer Motion", "#Vercel"],
@@ -29,8 +29,8 @@ const projects = [
     highlight: "Fitness Evolution",
     desc: "A responsive Fitness Evolution Website with Location and Form Integration.",
     img: FitnessEvolution,
-    ProjectLink: "https://fitness-evolution-roan.vercel.app/",
-    GithubLink:"https://github.com/amansahu-developer/Fitness-Evolution-"
+    ProjectLink: "https://fitness-evolution-one.vercel.app/",
+    GithubLink:"https://github.com/amansahux/Fitness-Evolution-"
   },
 ];
 
